@@ -1,4 +1,11 @@
-Temperature Converter 🌡️
+<p align="center">
+    <img src="https://quatr.us/wp-content/uploads/2017/07/thermometer.jpg" alt="Thermometer" width="150" height="200" />
+</p>
+
+
+
+# <h1 align="center">Temperature Converter 🌡️</h1>
+
 
 Welcome to the Temperature Converter, a modern and responsive web-based tool for converting temperatures between Celsius, Fahrenheit, and Kelvin. With a sleek interface and robust functionality, this project is a great tool for users looking to make temperature conversions quick and effortless. This converter is built with HTML, CSS, and JavaScript, and leverages a clean, user-centered design with interactive features.
 
