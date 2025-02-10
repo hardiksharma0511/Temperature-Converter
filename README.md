@@ -16,7 +16,7 @@ Convert between different temperature units with precision. Whether you’re con
 * Fahrenheit to Kelvin
 * Kelvin to Fahrenheit
 
-.
+
 🎨 Stylish and Responsive Design
 The interface is crafted with a modern aesthetic in mind:
 Elegant Background & Animation: A subtle animated image adds visual interest, and the fixed background image keeps the interface engaging without distraction.
