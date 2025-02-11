@@ -4,7 +4,7 @@
 
 # <h1 align="center">Temperature Converter 🌡️</h1>
 Welcome to the Temperature Converter, a modern and responsive web-based tool for converting temperatures between Celsius, Fahrenheit, and Kelvin. With a sleek interface and robust functionality, this project is a great tool for users looking to make temperature conversions quick and effortless. This converter is built with HTML, CSS, and JavaScript, and leverages a clean, user-centered design with interactive features.
-.
+
 🌟 Features
 🚀 Effortless Temperature Conversions
 Convert between different temperature units with precision. Whether you’re converting Celsius to Fahrenheit, Kelvin to Celsius, or Fahrenheit to Kelvin, this tool covers all primary conversions:
