@@ -9,8 +9,6 @@ Welcome to the Temperature Converter, a modern and responsive web-based tool for
 🚀 Effortless Temperature Conversions
 Convert between different temperature units with precision. Whether you’re converting Celsius to Fahrenheit, Kelvin to Celsius, or Fahrenheit to Kelvin, this tool covers all primary conversions:
 
-/
-
 * Celsius to Fahrenheit
 * Fahrenheit to Celsius
 * Celsius to Kelvin
