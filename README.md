@@ -15,7 +15,6 @@ Convert between different temperature units with precision. Whether you’re con
 * Kelvin to Celsius
 * Fahrenheit to Kelvin
 * Kelvin to Fahrenheit
-  
 
 🎨 Stylish and Responsive Design
 The interface is crafted with a modern aesthetic in mind:
